@@ -1,0 +1,9 @@
+id;Question;Type;Options;required;discosureId;description;placeholder;default
+WhatUP;What Up?;TextArea;;TRUE;G2;How was your day?;;Much wow
+More;You want more?;String;;FALSE;G2;How much more do you want?;A lot;
+age;How old are you?;Integer;;TRUE;G2;;33;
+height;How tall are you?;Number;;TRUE;G2;;;
+color;What’s your favorite color?;Select;Red|Yellow| Blue | Green;TRUE;G2;;Select;
+number;What’s your favorite number?;Select;1|2|3|4|7;FALSE;G2;;Select;7
+food;What food do you like?;MultiSelect;Ramen|Noodles|Pizza|Curry|Döner|Burger|Bowls;TRUE;G2;Pick as many as you like;;Ramen
+like;You like this?;Radio;Yes|No;FALSE;G2;;;
